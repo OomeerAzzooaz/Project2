@@ -1,0 +1,44 @@
+.title{
+    color: whitesmoke;
+    font-size: 50px;
+    background-color: rgb(115, 66, 14);
+    text-align: center;
+    width: auto;
+}
+.title2{
+    background-color: rgb(172, 123, 72);
+    text-align: right;
+    color: whitesmoke;
+}
+p{
+    font-size: large;
+}
+.overview{
+    text-decoration: underline;
+    color: whitesmoke;
+}
+body{
+    background-color: rgb(142, 81, 17);
+}
+p{
+    color: whitesmoke;
+}
+ol{
+    color: whitesmoke;
+    font-size: larger;
+}
+.img1{
+    height: 450px;
+    padding-left: 35px;
+}
+.img2{
+    height: 450px;
+    padding-left: 10px;
+}
+.map{
+    height: 850px;
+    padding-left: 80px;
+}
+a{
+    color: lightblue;
+}
